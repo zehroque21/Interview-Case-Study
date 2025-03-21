@@ -1,0 +1,6 @@
+delta-spark==3.3.0
+importlib_metadata==8.6.1
+py4j==0.10.9.7
+pyspark==3.5.5
+zipp==3.21.0
+jupyter
